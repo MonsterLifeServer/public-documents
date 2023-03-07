@@ -5,5 +5,6 @@
     - [サーバー開放失敗について](https://document.mlserver.jp/viewer.html?file=pdf/quality-document/file02.pdf)
 	- [ubuntu gnome-terminalがエラーを吐いた](https://document.mlserver.jp/viewer.html?file=pdf/quality-document/file03.pdf)
 	- [crontabの挙動について](https://document.mlserver.jp/viewer.html?file=pdf/quality-document/file04.pdf)
+	- [3Dテクスチャの不具合](https://document.mlserver.jp/viewer.html?file=pdf/quality-document/file05.pdf)
 - 一般資料
     [コチラ](https://www.mlserver.xyz/api/pdf)より確認可能
